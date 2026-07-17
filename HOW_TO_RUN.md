@@ -40,7 +40,7 @@
    jupyter notebook
    ```
 
-2. Откройте ноутбук проекта (`<имя_ноутбука>.ipynb`) и выполните ячейки по порядку (Kernel → Restart & Run All).
+2. Откройте ноутбук проекта (`grp_investment_analysis.ipynb`) и выполните ячейки по порядку (Kernel → Restart & Run All).
 
 ## Примечания
 
